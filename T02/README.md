@@ -1,0 +1,1 @@
+Wie startet man es? (Heute: node projektion.js)
