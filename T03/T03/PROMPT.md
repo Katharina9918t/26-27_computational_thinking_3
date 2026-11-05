@@ -1,0 +1,1 @@
+In meiner karte werden orte als kreise gezeichnet. Die größe der kreise hängt von der temperatur ab. die beschriftungen der orte pberlappen sich bei vielen orten. ändere nur die platzierung der beschriftungen, sodass zwidchen den beschriftungen und kreisen immer mind. 10 px abstand bleiben. der rest bleibt unverändert.
