@@ -1,0 +1,1 @@
+man öffnet es über den Liveserver. Der erste Slider nennt sich Breite aber skaliert die ganze Karte. Der zweite zoomt an den Ort Schwäbisch Gmünd ran. 
